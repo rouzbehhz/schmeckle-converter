@@ -1,0 +1,30 @@
+{
+  "name": "schmeckle-converter",
+  "version": "1.0.0",
+  "description": "Convert Schmeckles to most currencies used on Earth.",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rouzbehhz/schmeckle-converter.git"
+  },
+  "keywords": [
+    "schmeckle",
+    "currency",
+    "converter",
+    "rick",
+    "morty"
+  ],
+  "author": "Rouzbeh Hz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rouzbehhz/schmeckle-converter/issues"
+  },
+  "homepage": "https://github.com/rouzbehhz/schmeckle-converter#readme"
+}
