@@ -1,3 +1,5 @@
+To be clear...this is a joke repo. I like it. I find it funny. I will keep it here public. Fun times. Good memories.
+
 # schmeckle-converter
 Convert Schmeckles to most currencies used on Earth.
 
